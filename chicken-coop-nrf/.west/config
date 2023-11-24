@@ -1,0 +1,7 @@
+[manifest]
+path = chicken-coop
+file = west.yml
+
+[zephyr]
+base = zephyr
+
